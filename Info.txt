@@ -1,0 +1,4 @@
+Hello guys,
+CRUD OPERATION is a Application creadted using Netbeans IDE.
+In this, you can insert, update, display, delete records from the table.
+Data will get erased the moment you close the application.
